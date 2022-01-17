@@ -37,7 +37,6 @@ C | C++ | HTML |UI/UX | PYTHON |
 <br/>
 
 ![Saujanya's github stats](https://github-readme-stats.vercel.app/api?username=saujanyaraj07&count_private=true&show_icons=true&theme=radical)
-<h4 align="centre">💬 Feel free to hit me up regarding anything at all, I'm happy to interact with y'all! ✨</h4>
 
 ## :rainbow: Have a good day!
 
