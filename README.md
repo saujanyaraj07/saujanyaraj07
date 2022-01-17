@@ -9,14 +9,13 @@
 
 - A Freshman in B.Tech CS.
 - 🔭 Tech enthusiast with a great interest in Competitive coding and Data Science.
-- 👯 I’m looking to collaborate with enthusiastic and like-minded people!
-- 🥅 2021 Goals: Contribute more to Open Source projects and help my peers.
+- 🥅 2022 Goals: Contribute more to Open Source projects and help my peers.
 - 📧 Reach me via **saujanyaraj.07@gmail.com**
 
 ## ✏️ Techstack I'm familiar with: 
 
-C | C++ | HTML |
---|-----|------|
+C | C++ | HTML |UI/UX | PYTHON |
+--|-----|------|------|--------|
 
 
 ### Connect with me here:  
