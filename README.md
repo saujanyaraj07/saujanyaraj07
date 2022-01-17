@@ -14,8 +14,8 @@
 
 ## ✏️ Techstack I'm familiar with: 
 
-C | C++ | HTML |UI/UX | PYTHON |
---|-----|------|------|--------|
+C/C++ |UI/UX | PYTHON |
+|-----|------|--------|
 
 
 ### Connect with me here:  
