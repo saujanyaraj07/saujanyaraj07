@@ -42,5 +42,3 @@
 </div>
 
 <h2>Thanks For Visiting!  </h2>
-
-[![Visits Badge](https://badges.pufler.dev/visits/saujanyaraj07/saujanyaraj07?style=for-the-badge)](https://github.com/saujanyaraj07/)
