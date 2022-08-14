@@ -4,7 +4,7 @@
 
 <h3 align="left">👩🏻‍💻 About Me :</h3>
 
-- 🙋‍♀️ I’m a 1st year undergrad pursuing BTech with CSE.
+- 🙋‍♀️ I’m a 2nd year undergrad pursuing BTech with CSE.
 
 - 💻  I’m a Tech enthusiast with a great interest in Competitive coding, App Development, Data Science, Artificial Intelligence and Machine Learning.
 
