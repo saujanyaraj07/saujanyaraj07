@@ -1,16 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Saujanya Raj</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
 <h3 align="left">👩🏻‍💻 About Me :</h3>
 
-- 🙋‍♀️ I’m a 2nd year undergrad pursuing BTech with CSE.
+- 🙋‍♀️ I’m a pre-final year student currently pursuing B.Tech in CSE.
 
-- 💻  I’m a Tech enthusiast with a great interest in Competitive coding, App Development, Data Science, Artificial Intelligence and Machine Learning.
+- 💻  I’m a Tech enthusiast with great interest in Coding, App Development, Blockchain & AI/ML. I also have deep interest in UI/UX designing. 
 
 - 🔭 Hackathon Hunter
-
-- 🥅 2022 Goals: Contribute more to real-world projects and actively engage with the Open source community.
 
 - 👩🏻 Pronouns- She / Her
 
@@ -28,9 +24,6 @@
     <img align="left" alt="Saujanyar07 | Twitter" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a> 
 
-  <a href="https://www.instagram.com/saujanyar.07/">
-    <img align="left" alt="saujanyar.07 | Instagram" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
   <br><br>
 
 ![Saujanya's github stats](https://github-readme-stats.vercel.app/api?username=saujanyaraj07&count_private=true&show_icons=true&theme=radical)
